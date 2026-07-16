@@ -18,10 +18,10 @@ Inspired by Pinduoduo's low-price retention model, this project investigates wha
    - Does price affect satisfaction?
    - Which product categories have the best and worst ratings?
    - Does meeting estimated delivery date predict satisfaction more than speed?
-4. **Modelling** 
-   — Random Forest vs Logistic Regression to predict satisfaction
+4. **Modelling**
+   - Random Forest vs Logistic Regression to predict satisfaction
    - NLP on review comments to investigate satisfaction factors
-5. **SQL Analysis**
+6. **SQL Analysis**
    — Key findings reproduced in SQL alongside pandas
 
 ## How to Run
