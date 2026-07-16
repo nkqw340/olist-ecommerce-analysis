@@ -14,14 +14,15 @@ Inspired by Pinduoduo's low-price retention model, this project investigates wha
    — dtype conversion, null analysis, validity checks
 2. **Repeat Purchase Analysis**
    - Does satisfaction drive repeat purchases?
-3. **Satisfaction Drivers** — testing three hypotheses:
+3. **Satisfaction Drivers**
    - Does price affect satisfaction?
    - Which product categories have the best and worst ratings?
    - Does meeting estimated delivery date predict satisfaction more than speed?
 4. **Modelling** 
    — Random Forest vs Logistic Regression to predict satisfaction
    - NLP on review comments to investigate satisfaction factors
-5. **SQL Analysis** — key findings reproduced in SQL alongside pandas
+5. **SQL Analysis**
+   — Key findings reproduced in SQL alongside pandas
 
 ## How to Run
 1. Download dataset from Kaggle: [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_reviews_dataset.csv]
